@@ -1,0 +1,4 @@
+# Sender
+from server import a1
+
+a1.record()
